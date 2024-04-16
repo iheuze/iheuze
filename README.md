@@ -3,7 +3,7 @@
 I am a Theoretical Physics Graduate from Trinity College Dublin, passionate about Quantum Computing.
 
 I mainly work using Python but I have a few projects in C++. 
-My Python experience includes quantum computing frameworks, such as Qiskit, Pennylane, and Perceval.
+My Python experience includes quantum computing frameworks, such as Qiskit, Pennylane, and CirQ.
 
 I would love to collaborate on anything quantum related!
 
