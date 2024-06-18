@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Isabelle Heuzé
 
-I am a Theoretical Physics Graduate from Trinity College Dublin, passionate about Quantum Computing.
+I am a Theoretical Physics Graduate from Trinity College Dublin and a Quantum Computing Intern.
 
 I mainly work using Python but I have a few projects in C++. 
 My Python experience includes quantum computing frameworks, such as Qiskit, Pennylane, and CirQ.
